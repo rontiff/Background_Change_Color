@@ -1,0 +1,56 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+body{
+    min-height: 100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    background-color: #555555;
+    color:white;
+    padding:32px 32px;
+    margin:15px;
+    font-size: 32px;
+    cursor: pointer;
+    height:100px;
+    width: 200px;
+}
+
+.red{
+    background-color: red;
+    color:black;
+}
+.blue{
+    background-color: blue;
+    color:black;
+}
+.green{
+    background-color: greenyellow;
+    color:black;
+}
+.yellow{
+    background-color: yellow;
+    color:black;
+}
+.grey{
+    background-color: grey;
+    color:black;
+}
+.pink{
+    background-color: pink;
+    color:black;
+}
+.violet{
+    background-color: violet;
+    color:black;
+}
+.white{
+    background-color: white;
+    color:black;
+}
